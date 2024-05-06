@@ -1,4 +1,4 @@
-El tema de código dentro del proyecyo se está manejando en dos repositorios diferentes (Noto que no se revisa la Wiki):
+El tema de código dentro del proyecto se está manejando en dos repositorios diferentes (Noto que no se revisa la Wiki):
 
 Repositorios:
 
